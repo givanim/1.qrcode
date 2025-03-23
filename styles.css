@@ -22,7 +22,7 @@ img {
 .qr-code-card {
   background-color: #FFFFFF;
   border-radius: 1.1em;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
   margin:  auto;
   padding: 15px;
   max-width: 300px;
